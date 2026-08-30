@@ -31,10 +31,6 @@ I'm an aspiring **Ethical Hacker / VAPT Analyst** pursuing an **M.Sc. in Cyber S
 **Environment:**
 <img src="https://img.shields.io/badge/-Kali%20Linux-1a1a1a?style=flat-square&logo=kalilinux&logoColor=e62429"/> <img src="https://img.shields.io/badge/-Linux-8f0000?style=flat-square&logo=linux&logoColor=white"/>
 
-## 📊 GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=cyberspidey02&show_icons=true&theme=dark&bg_color=0d1117&title_color=e62429&text_color=c9c9c9&icon_color=e62429&border_color=e62429&hide_border=false" width="48%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyberspidey02&layout=compact&theme=dark&bg_color=0d1117&title_color=e62429&text_color=c9c9c9&border_color=e62429&hide_border=false" width="40%"/>
-
 ## 📫 Get in touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abuzar1302/)
